@@ -7,7 +7,7 @@ public class Main {
         boolean salir = false;
 
         while (salir == false) {
-            System.out.println("\n----- MENU -----");
+            System.out.println("______MENU_____");
             System.out.println("1. Digitar Nota 1");
             System.out.println("2. Digitar Nota 2");
             System.out.println("3. Digitar Nota 3");
